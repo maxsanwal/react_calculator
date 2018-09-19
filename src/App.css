@@ -1,0 +1,31 @@
+.fullCalci{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.textbox{
+  font-size: 80px;
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+}
+
+.buttonSet{
+  
+}
+
+.numbers{
+  font-size: 50px;
+  font-family: 'Press Start 2P', cursive;
+  padding: 10px;
+  background-color: cadetblue;
+}
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+}
+
+.mouse{
+  width: 50px;
+}
